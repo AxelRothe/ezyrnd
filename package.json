@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AxelRothe/ezyrnd/issues"
   },
-  "homepage": "https://github.com/AxelRothe/ezyrnd#readme"
+  "homepage": "https://github.com/AxelRothe/ezyrnd#readme",
+  "devDependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
