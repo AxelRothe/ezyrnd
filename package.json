@@ -1,0 +1,19 @@
+{
+  "name": "ezyrnd",
+  "version": "1.0.0",
+  "description": "a random ID generator for 100% temporally unique IDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelRothe/randomID.git"
+  },
+  "author": "Axel Rothe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AxelRothe/ezyrnd/issues"
+  },
+  "homepage": "https://github.com/AxelRothe/ezyrnd#readme"
+}
