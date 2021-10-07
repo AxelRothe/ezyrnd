@@ -1,6 +1,6 @@
 {
   "name": "ezyrnd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a random ID generator for 100% temporally unique IDs",
   "main": "index.js",
   "scripts": {
