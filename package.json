@@ -16,7 +16,7 @@
     "url": "https://github.com/AxelRothe/ezyrnd/issues"
   },
   "homepage": "https://github.com/AxelRothe/ezyrnd#readme",
-  "devDependencies": {
+  "dependencies": {
     "crypto-js": "^4.1.1"
   }
 }
