@@ -4,7 +4,7 @@
 
 ```
 const { ezyrnd, eyzrndConstructor } = require('ezyrnd');
-
+```
 
 ## Generate unqiue id
 
@@ -21,3 +21,4 @@ Simple utility if you need to add a random string. Will generate a string of a d
 ```
 ezyrnd.randomString(12)
 //output: a2zdDbcz123s
+```
